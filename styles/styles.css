@@ -35,3 +35,10 @@ img {
     display: flex;
     justify-content: space-between;
 }
+
+section {
+    border:white solid 1em;
+}
+img {
+width: auto;
+}
